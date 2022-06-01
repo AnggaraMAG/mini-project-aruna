@@ -8,7 +8,7 @@ https://mini-project-aruna.vercel.app/
 This App using technology:
 
 - [React.js Documentation](https://reactjs.org/docs/getting-started.html) 
-- [Antd]([https://redux.js.org/introduction/getting-started](https://ant.design/))
+- [Antd](https://ant.design/)
 - [TypeScript](https://www.typescriptlang.org/) 
 
 ### Installation
