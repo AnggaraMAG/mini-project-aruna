@@ -1,7 +1,27 @@
 .App {
+  /* justify-content: center; */
   text-align: center;
+  /* width: 500px; */
+  /* gap: 40; */
+  /* display: flex; */
+  justify-content: center;
+  display: flex;
+  align-items: center;
+  /* margin-top: 100px; */
 }
 
+.Wrapper {
+  margin-top: 500px;
+  width: 500px;
+  gap: 20px;
+}
+.container_input {
+  display: flex;
+  margin-bottom: 20px;
+}
+.wrap_result {
+  margin-top: 20;
+}
 .App-logo {
   height: 40vmin;
   pointer-events: none;
